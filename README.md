@@ -46,9 +46,9 @@ your game.
   - closedir
 
 ## What does it look like ?
-![alt](https://github.com/Skynz-hub/RPG/masterdemo1.png?raw=true)
-![alt](https://github.com/Skynz-hub/RPG/masterdemo2.png?raw=true)
-![alt](https://github.com/Skynz-hub/RPG/masterdemo3.png?raw=true)
-![alt](https://github.com/Skynz-hub/RPG/masterdemo4.png?raw=true)
-![alt](https://github.com/Skynz-hub/RPG/masterdemo5.png?raw=true)
-![alt](https://github.com/Skynz-hub/RPG/masterdemo6.png?raw=true)
+![alt](https://raw.githubusercontent.com/Skynz-Hub/RPG/master/demo1.png?raw=true)
+![alt](https://raw.githubusercontent.com/Skynz-Hub/RPG/master/demo2.png?raw=true)
+![alt](https://raw.githubusercontent.com/Skynz-Hub/RPG/master/demo3.png?raw=true)
+![alt](https://raw.githubusercontent.com/Skynz-Hub/RPG/master/demo4.png?raw=true)
+![alt](https://raw.githubusercontent.com/Skynz-Hub/RPG/master/demo5.png?raw=true)
+![alt](https://raw.githubusercontent.com/Skynz-Hub/RPG/master/demo6.png?raw=true)
